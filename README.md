@@ -7,6 +7,19 @@ A library with examples and exercises to learn MySQL. There is many documentatio
 * MySQL 8
 * [Visual Studio Code](https://code.visualstudio.com)
 
+## Further information
+
+* [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+* [MySQL Server Blog - from the MySQL Server Team](https://mysqlserverteam.com/)
+* [MySQL Community Forums](https://forums.mysql.com/)
+
+## What is MySQL
+
+###### (source: https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html)
+
+* MySQL is a database management system.
+* A database is a structured collection of data.
+
 # License
 
 All my publications in this project are free to use and are subject to the [MIT](/LICENSE) license.
